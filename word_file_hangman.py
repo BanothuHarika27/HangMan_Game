@@ -1,0 +1,1 @@
+words= [ "brinjal", "potato", "apple", "watermelon", "newyork"," california", "india","hyderabad"]
