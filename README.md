@@ -1,5 +1,4 @@
 # HangMan_Game
- 
 
 - This is a simple command-line implementation of the classic Hangman game in Python. The game randomly selects a word from a predefined list, and the player must guess the letters of the word within a limited number of incorrect guesses (lives). The game provides visual feedback through a series of hangman stages, which change as the player makes incorrect guesses.
 
